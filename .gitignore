@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcresult
+
+# Claude Code: personal, machine-specific notes
+CLAUDE.local.md
+
+# Kept out of the public repository:
+# - XojoSource/: text decoded from the original Xojo project. It contains third-party
+#   plugin licence details and an old service key, so it stays private.
+# - Screenshots/: renders made with stock photos during development.
+XojoSource/
+Screenshots/
